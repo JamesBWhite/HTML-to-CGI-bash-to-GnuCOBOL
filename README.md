@@ -124,6 +124,9 @@ Licensed under the GNU Lesser General Public License as published by the
 Free Software Foundation, either version 3 of the License, or (at your 
 option) any later version. 
 
+Date: August 13, 2025: 
+Updated cust01.cgi it was calling the wrong program.  Fixed to call cust01
+
  
 	
 	
@@ -144,3 +147,4 @@ option) any later version.
 		
 	
 		
+
